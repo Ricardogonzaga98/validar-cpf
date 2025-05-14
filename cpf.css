@@ -41,13 +41,17 @@ body{
 }
 
 .message.success {
-    background-color: aliceblue;
-    color: blue;
+    background-color: #d4edda;
+    color: #155724;
+    font-size: 14px;
+    margin-top: 10px;
 
 }
 
 .message.error {
     background-color: aliceblue;
     color: brown;
+    font-size: 14px;
+    margin-top: 10px;
 
 }
